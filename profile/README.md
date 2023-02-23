@@ -4,8 +4,8 @@ Snow-ball이란?
 스노우볼 효과 (Snowball effect) : 일명 눈덩이 효과(Snowball effect)는 장기적인 안목의 투자로 눈덩이가 비탈을 구르며 주변의 눈들을 집어삼키고 불어나듯 불리는 것을 의미하는 주식용어입니다.
 
 동아리 Snow-ball은 비탈길을 굴러가는 눈덩이처럼 AI 실력을 쌓아 교내/외 다양한 활동을 통해 본인의 목표를 이루는 것을 목적으로 하고 있습니다. 
-
-Snow-ball 커리큘럼
+|:----:|
+**Snow-ball 커리큘럼**
 |월|프로그램|프로그램 내용|
 |:------:|:---:|:---:|
 |3월|Intro to Machine Learning|https://www.kaggle.com/learn/intro-to-machine-learning|
