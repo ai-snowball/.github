@@ -22,7 +22,9 @@ Snow-ball이란?
 |6월|Natural Language Processing Guide|https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/notebook|
  
  *기초반*
+ 
  매주 월요일 5~6시마다 python + pandas 기초와 모르는거 질문하는 시간
  https://www.kaggle.com/learn/python
+ 
  https://www.kaggle.com/learn/pandas
 
