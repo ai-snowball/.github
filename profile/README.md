@@ -8,17 +8,17 @@ Snow-ball이란?
 Snow-ball 커리큘럼
 |월|프로그램|프로그램 내용|
 |:------:|:---:|:---:|
-|3월초|머신러닝에 대한 기초를 다잡는 시기|Intro to Machine Learning|
-|3월중|머신러닝에 대한 기초+응용|Intermediate Machine Learning|
-|3월후|머신러닝 응용(1)|Feature Engineering|
-|4월초|머신러닝 응용(2)|Data visualization|
-|4월중|머신러닝 응용(3)|Data cleaning|
-|4월후|머신러닝 응용(4)|Time series|
-|5월초|competition studying(1)|Titanic - Machine Learning from Disaster&House Prices - Advanced Regression Techniques|
-|5월중|competition studying(2)|Digit Recognizer|
-|5월후|competition studying(3)|Bag of Words Meets Bags of Popcorn|
-|6월초|딥러닝에 대한 기초를 다잡는 시기|Intro to Deep Learning|
-|6월중|딥러닝 응용(1)|Computer Vision|
-|6월후|딥러닝 응용(2)|Natural Language Processing Guide|
+|3월|머신러닝에 대한 기초를 잡는 시기|Intro to Machine Learning|
+|3월|머신러닝에 대한 기초+응용|Intermediate Machine Learning|
+|3월|머신러닝 응용(1)|Feature Engineering|
+|4월|머신러닝 응용(2)|Data visualization|
+|4월|머신러닝 응용(3)|Data cleaning|
+|4월|머신러닝 응용(4)|Time series|
+|5월|competition studying(1)|Titanic - Machine Learning from Disaster&House Prices - Advanced Regression Techniques|
+|5월|competition studying(2)|Digit Recognizer|
+|5월|competition studying(3)|Bag of Words Meets Bags of Popcorn|
+|6월|딥러닝에 대한 기초를 잡는 시기|Intro to Deep Learning|
+|6월|딥러닝 응용(1)|Computer Vision|
+|6월|딥러닝 응용(2)|Natural Language Processing Guide|
 
 
