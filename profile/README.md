@@ -7,7 +7,7 @@ Snow-ball이란?
 
 Snow-ball 커리큘럼
 |월|프로그램|프로그램 내용|
-|:------:|---|---|
+|:------:|:---:|:---:|
 |3월초|머신러닝에 대한 기초를 다잡는 시기|Intro to Machine Learning|
 |3월중|머신러닝에 대한 기초+응용|Intermediate Machine Learning|
 |3월후|머신러닝 응용(1)|Feature Engineering|
