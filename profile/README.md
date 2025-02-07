@@ -1,3 +1,6 @@
+⚠️ **아래 내용은 2023년 1학기까지 Snow-ball 활동 기록입니다.**  
+📌 현재 GitHub 저장소는 [여기](https://github.com/AIDS-snowball)에서 확인하실 수 있습니다.
+
 Hello👋👋 저희는 세종대학교 인공지능학과 학술동아리 Snow-ball입니다.
 
 Snow-ball이란?
